@@ -1,0 +1,10 @@
+{
+    "name": "externalplayer",
+    "displayName": "External Players",
+    "version": "1.0.0",
+    "description": "Applications Plugin for Emby Theater.",
+    "plugin": "plugin.js",
+    "homepage": "https://crazybbs.github.io/Emby.Theater.Externalplayers",
+    "thumb": "",
+    "backdrop": ""
+}
