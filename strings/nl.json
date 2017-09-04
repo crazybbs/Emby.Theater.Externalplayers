@@ -1,0 +1,19 @@
+{
+    "Add": "Toevoegen",
+    "Save": "Opslaan",
+    "Video": "Video",
+    "Game": "Game",
+    "MediaType": "Media type",
+    "ExternalPlayers": "Externe spelers",
+    "ExternalPlayer": "Externe speler",
+    "PlayerPath": "Speler pad",
+    "ArgumentsHelp": "Plaats elke parameter op een nieuwe regel",
+    "TokenPath": "{path} = pad naar media bestand",
+    "EnableFor": "Inschakelen voor:",
+    "VideoFiles": "Video bestanden",
+    "InternetStreams": "Internet streams",
+    "CommandLineArguments": "Commando regel parameters",
+    "TokenStartPosMs": "{ms} = start positie msec",
+    "AdditionalFilters": "Extra filters:",
+    "GameSystem": "Game systeem:"
+}
